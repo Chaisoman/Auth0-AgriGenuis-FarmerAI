@@ -1,0 +1,8 @@
+{
+  "name": "AgriGenius",
+  "description": "AI-powered agricultural assistant for smallholder farmers in Sub-Saharan Africa. Features AI pest detection, crop health analysis, and secure service integration via Auth0 Token Vault.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
